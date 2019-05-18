@@ -1,0 +1,5 @@
+
+void printFunction()
+{
+	printf("testtest");
+}
