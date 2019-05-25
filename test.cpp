@@ -13,3 +13,10 @@ void PlayerAattack()
 }
 
 
+
+void Kani()
+{
+	printf("カニカニカニカニカニカニカニカニカニカニカニ");
+}
+
+
