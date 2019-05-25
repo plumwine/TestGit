@@ -5,3 +5,11 @@ void printFunction()
 	printf("testtest");
 	printf("ぱらららららら");
 }
+
+
+void PlayerAattack()
+{
+	printf("攻撃～");
+}
+
+
